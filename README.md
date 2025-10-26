@@ -145,8 +145,3 @@ Prediction
 ## 📜 License
 
 MIT License
-
-**Akarsh Chaturvedi** — Cyber Security & Developer
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/akarsh-chaturvedi-259271236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBrGww08AQLqtNgnrNvLPDg%3D%3D)
-
-
